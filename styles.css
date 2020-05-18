@@ -1,0 +1,13 @@
+/*Assignment: Project 4; Author: Peter Brummel*/
+
+input[type="text"] {
+    height: 37.5px;
+    width: 215px;
+}
+input[type="text"]:focus {
+    border: 2.5px solid #83d9f4;
+}
+
+input[type="search"]:focus {
+    border: 2.5px solid #83d9f4;
+}
